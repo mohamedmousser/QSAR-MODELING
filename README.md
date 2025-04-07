@@ -1,5 +1,5 @@
-# QSAR-MODELLING
-DATA &amp; MODELLING PROCEDURE.
+# QSAR-MODELING
+DATA &amp; MODELING PROCEDURE.
 
  This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please read this paper : doi... before using the programs.
  If you use the programs, make sure you have the requirements listed below, and rename your files in the same format of the given examples in the repository.
