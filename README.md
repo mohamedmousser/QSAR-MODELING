@@ -1,5 +1,5 @@
 # QSAR-MODELING
-DATA &amp; MODELING PROCEDURE.
+***DATA &amp; MODELING PROCEDURE.***
 
  This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please read the following paper. doi : https://doi.org/10.1016/j.jmgm.2025.109216 before using the programs.
  If you use the programs, make sure you have the requirements listed below, and rename your files in the same format of the given examples in the repository.
@@ -7,9 +7,11 @@ DATA &amp; MODELING PROCEDURE.
 
 
 ## Requirements
-1. Clone the repository
-2. install python3
-3. pip install requirements.txt
+1. Clone the repository : `git clone https://github.com/mohamedmousser/QSAR-MODELING.git`
+2. install python3 : `sudo apt update`
+                     `sudo apt install python3 -y`
+                     `sudo apt install python3-pip -y`   
+4. Install requirements : `pip install requirements.txt`
 
 ## Data treatment
 1. Download the csv raw data from https://ebi.ac.uk/chembl in the same directory, or use the IGF1R data example in the repository 
