@@ -8,9 +8,9 @@ For the math treatment program, first, make sure you have a csv file with molecu
 
 ### 1. Requirements
 1. Clone the repository : `git clone https://github.com/mohamedmousser/QSAR-MODELING.git`.
-2. install python3 : `sudo apt update`
-                     `sudo apt install python3 -y`.
-                     `sudo apt install python3-pip -y`.   
+2. install python3 : `sudo apt update`,
+                     `sudo apt install python3 -y`,
+                     `sudo apt install python3-pip -y`,   
 3. Install requirements : `pip install requirements.txt`.
 
 ### 2. Data treatment
