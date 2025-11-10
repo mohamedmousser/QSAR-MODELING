@@ -1,7 +1,7 @@
 # QSAR-MODELING
 DATA &amp; MODELING PROCEDURE.
 
- This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please read this paper : doi... before using the programs.
+ This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please read the following paper. doi : https://doi.org/10.1016/j.jmgm.2025.109216 before using the programs.
  If you use the programs, make sure you have the requirements listed below, and rename your files in the same format of the given examples in the repository.
  For the math treatment program, first make sure you have a csv file with molecular descriptors, or use our example : "Descriptors.csv" (DYRK1). Second, make sure you save the 'two column' csv file from the cleaned matrix (containing only the "chembl_id" and the "activity" (in our example (DYRK1) there is also the IC50 column). 
 
