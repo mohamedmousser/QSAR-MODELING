@@ -23,4 +23,4 @@ If you wish to build a QSAR model following our pipeline, we provide here a step
 2. In the linux terminal, type : `python3 MPT.py`, you will be invited to type the name of the descriptors file and your MPT will be done. You will find the correlation matrix and the train/test files in the a new directory called "preparation_output".
 
 ### 4. Machine learning
-1. In the linux terminal, type : `python3 Machine_learning.py`, you will be invited to type the abbreviation of the kinase and the adequate number of decision trees (these can be found within : Mousser *et al.* paper at [link text](https://doi.org/10.1016/j.jmgm.2025.109216)). A report on the QSAR model will appear. 
+1. In the linux terminal, type : `python3 Machine_learning.py`, you will be invited to type the abbreviation of the kinase and the adequate number of decision trees (these can be found within : Mousser *et al.* paper at [DOI](https://doi.org/10.1016/j.jmgm.2025.109216)). A report on the hybrid *XGBoost/DNN* model will appear. 
