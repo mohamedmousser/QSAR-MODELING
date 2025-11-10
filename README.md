@@ -1,4 +1,4 @@
-# QSAR-MODELING
+# Enhancing predictive modeling with XGBoost-engineered probabilities and deep neural networks: A hybrid approach for building reliable kinase inhibition QSAR models
 ***DATA &amp; MODELING PROCEDURE.***
 
  This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please read the following paper. doi : https://doi.org/10.1016/j.jmgm.2025.109216 before using the programs.
