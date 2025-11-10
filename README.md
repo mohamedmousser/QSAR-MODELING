@@ -1,7 +1,7 @@
 # [Enhancing predictive modeling with XGBoost-engineered probabilities and deep neural networks: A hybrid approach for building reliable kinase inhibition QSAR models](https://doi.org/10.1016/j.jmgm.2025.109216)
 ***DATA &amp; MODELING PROCEDURE.***
 
-## This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please, if you use our programs or methodology in your research, cite the following paper. doi : https://doi.org/10.1016/j.jmgm.2025.109216 before using the programs.
+## This is a repository to facilitate ChEMBL data curation and hybrid XGBoost/DNN QSAR modeling (classification). Please, if you use our programs or methodology in your research, cite the following paper. doi : https://doi.org/10.1016/j.jmgm.2025.109216.
 If you use the programs, make sure you have the requirements listed below and rename your files in the same format of the given examples.
 1. For the math treatment program, first, make sure you have a csv file with molecular descriptors, or use our example : "Descriptors.csv" (DYRK1). Second, save the two-column csv file from the cleaned matrix (containing only the "chembl_id" and the "activity"). Note that in our example (DYRK1) there is also the IC50 column. 
 
